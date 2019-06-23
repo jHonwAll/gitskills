@@ -1,6 +1,6 @@
 gitskills
 <<<<<<< HEAD
-dev branch
+dev branch feature
 =======
 dev branch feature
 >>>>>>> feature1

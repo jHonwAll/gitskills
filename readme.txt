@@ -1,2 +1,6 @@
 gitskills
-dev branch master
+<<<<<<< HEAD
+dev branch
+=======
+dev branch feature
+>>>>>>> feature1
